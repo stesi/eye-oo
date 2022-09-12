@@ -2,3 +2,8 @@
 	path = stesi/l10n-italy
 	url = git@github.com:stesi/l10n-italy.git
 	branch = 14.0
+
+[submodule "OCA/account-financial-tools"]
+	path = OCA/account-financial-tools
+	url = git@github.com:OCA/account-financial-tools.git
+	branch = 14.0
