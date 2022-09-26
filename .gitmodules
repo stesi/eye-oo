@@ -37,3 +37,8 @@
 	path = OCA/web
 	url = git@github.com:OCA/web.git
 	branch = 14.0
+
+[submodule "ingegniamo/vendor_selection"]
+	path = ingegniamo/vendor_selection
+	url = git@github.com:ingegniamo/vendor_selection.git
+	branch = 14.0
