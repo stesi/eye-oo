@@ -42,3 +42,8 @@
 	path = ingegniamo/vendor_selection
 	url = git@github.com:ingegniamo/vendor_selection.git
 	branch = 14.0
+
+[submodule "OCA/account-payment"]
+	path = OCA/account-payment
+	url = git@github.com:OCA/account-payment.git
+	branch = 14.0
