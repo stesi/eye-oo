@@ -47,3 +47,13 @@
 	path = OCA/account-payment
 	url = git@github.com:OCA/account-payment.git
 	branch = 14.0
+
+[submodule "OCA/product-attribute"]
+	path = OCA/product-attribute
+	url = git@github.com:OCA/product-attribute.git
+	branch = 14.0
+
+[submodule "OCA/server-tools"]
+	path = OCA/server-tools
+	url = git@github.com:OCA/server-tools.git
+	branch = 14.0
