@@ -66,3 +66,8 @@
 	path = stesi/customer_invoice_margin
 	url = git@github.com:stesi/customer_invoice_margin.git
 	branch = 14.0
+
+[submodule "ingegniamo/account_margin_shipment_commission"]
+	path = ingegniamo/account_margin_shipment_commission
+	url = git@github.com:ingegniamo/account_margin_shipment_commission.git
+	branch = 14.0
