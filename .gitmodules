@@ -62,3 +62,7 @@
 	path = OCA/commission
 	url = git@github.com:OCA/commission.git
 	branch = 14.0
+[submodule "stesi/customer_invoice_margin"]
+	path = stesi/customer_invoice_margin
+	url = git@github.com:stesi/customer_invoice_margin.git
+	branch = 14.0
