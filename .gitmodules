@@ -76,3 +76,8 @@
 	path = ingegniamo/helpdesk_sale_order
 	url = git@github.com:ingegniamo/helpdesk_sale_order.git
 	branch = 14.0
+
+[submodule "stesi/stesi_helpdesk"]
+	path = stesi/stesi_helpdesk
+	url = git@github.com:stesi/stesi_helpdesk.git
+	branch = 14.0
