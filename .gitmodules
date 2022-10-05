@@ -57,3 +57,22 @@
 	path = OCA/server-tools
 	url = git@github.com:OCA/server-tools.git
 	branch = 14.0
+
+[submodule "OCA/commission"]
+	path = OCA/commission
+	url = git@github.com:OCA/commission.git
+	branch = 14.0
+[submodule "stesi/customer_invoice_margin"]
+	path = stesi/customer_invoice_margin
+	url = git@github.com:stesi/customer_invoice_margin.git
+	branch = 14.0
+
+[submodule "ingegniamo/account_margin_shipment_commission"]
+	path = ingegniamo/account_margin_shipment_commission
+	url = git@github.com:ingegniamo/account_margin_shipment_commission.git
+	branch = 14.0
+
+[submodule "ingegniamo/helpdesk_sale_order"]
+	path = ingegniamo/helpdesk_sale_order
+	url = git@github.com:ingegniamo/helpdesk_sale_order.git
+	branch = 14.0
