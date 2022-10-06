@@ -86,3 +86,8 @@
 	path = stesi/stesi_helpdesk
 	url = git@github.com:stesi/stesi_helpdesk.git
 	branch = 14.0
+
+[submodule "ingegniamo/eyeoo_custom"]
+	path = ingegniamo/eyeoo_custom
+	url = git@github.com:ingegniamo/eyeoo_custom.git
+	branch = 14.0
