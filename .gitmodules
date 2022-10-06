@@ -76,3 +76,8 @@
 	path = ingegniamo/helpdesk_sale_order
 	url = git@github.com:ingegniamo/helpdesk_sale_order.git
 	branch = 14.0
+
+[submodule "ingegniamo/sale_team_in_partner"]
+	path = ingegniamo/sale_team_in_partner
+	url = git@github.com:ingegniamo/sale_team_in_partner.git
+	branch = 14.0
