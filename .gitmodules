@@ -96,3 +96,8 @@
 	path = OCA/brand
 	url = git@github.com:OCA/brand.git
 	branch = 14.0
+
+[submodule "ingegniamo/shopify_helpdesk_ticket"]
+	path = ingegniamo/shopify_helpdesk_ticket
+	url = git@github.com:ingegniamo/shopify_helpdesk_ticket.git
+	branch = 14.0
