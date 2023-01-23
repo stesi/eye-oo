@@ -116,3 +116,8 @@
 	path = stesi/ftp_connector
 	url = git@github.com:stesi/ftp_connector.git
 	branch = 14.0
+
+[submodule "ingegniamo/stock_show_product_qty_info"]
+	path = ingegniamo/stock_show_product_qty_info
+	url = git@github.com:ingegniamo/stock_show_product_qty_info.git
+	branch = 14.0
