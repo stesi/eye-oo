@@ -126,3 +126,8 @@
 	path = stesi/stesi_accounting
 	url = git@github.com:stesi/stesi_accounting.git
 	branch = 14.0
+
+[submodule "ingegniamo/stesi_account_journal_not_required"]
+	path = ingegniamo/stesi_account_journal_not_required
+	url = git@github.com:ingegniamo/stesi_account_journal_not_required.git
+	branch = 14.0
