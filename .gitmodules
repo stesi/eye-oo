@@ -136,3 +136,8 @@
 	path = ingegniamo/helpdesk_send_reply_using_template
 	url = git@github.com:ingegniamo/helpdesk_send_reply_using_template.git
 	branch = 14.0
+
+[submodule "stesi/odoo_email_cc_bcc"]
+	path = stesi/odoo_email_cc_bcc
+	url = git@github.com:stesi/odoo_email_cc_bcc.git
+	branch = 14
